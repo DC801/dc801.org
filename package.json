@@ -1,0 +1,19 @@
+{
+  "name": "dc801.org",
+  "version": "1.0.0",
+  "description": "The main site for DC801 -- Salt Lake City, Utah's DEF CON group.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DC801/dc801.org.git"
+  },
+  "author": "Moggie (https://github.com/moggie/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DC801/dc801.org/issues"
+  },
+  "homepage": "https://github.com/DC801/dc801.org#readme"
+}
