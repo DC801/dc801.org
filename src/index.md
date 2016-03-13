@@ -1,6 +1,5 @@
 ---
 title: Home
+layout: index.jade
 ---
 Oh hai world.
-
-### I have no idea what I'm doing.
