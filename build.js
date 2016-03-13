@@ -1,7 +1,6 @@
-var Metalsmith = require('metalsmith');
+const metalsmith = require('metalsmith');
 
 
-
-Metalsmith(__dirname)
+metalsmith(__dirname)
   .destination('./build')
-  .build()
+  .build();
