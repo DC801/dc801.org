@@ -1,4 +1,4 @@
-var Metalmsith = require('metalsmith');
+var Metalsmith = require('metalsmith');
 
 
 
