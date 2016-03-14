@@ -20,6 +20,10 @@ metalsmith(__dirname)
     {
       match: { collection: 'pages' },
       pattern: ':title',
+    },
+    {
+      match: { collection: 'events' },
+      pattern: 'events/:title',
     }],
   }))
   .use(layouts({
