@@ -27,6 +27,7 @@ metalsmith(__dirname)
   }))
   .use(watch({
     paths: {
+      'layouts/**/*.jade': '**/*.md',
       '${source}/**/*.md': true,
     },
     livereload: true,
