@@ -47,7 +47,7 @@ A list of where all our members have spoken
 - BSidesSLC 2014: An Introduction to backdooring operating systems for fun and trolling
 - OpenWest 2013: Firewall Wizardry using Netfiler / Iptables
 - BSides-SLC: Writing IRC Bots (Sheeping L34N)
--
+
 ## Nibb13
 - BSidesSLC 2014: The SANS 20 Critical Security Controls and you.
 - BSidesSLC: Kali Linux 101 or what happened to my backtrack?!?!
