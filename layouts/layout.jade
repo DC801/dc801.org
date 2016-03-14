@@ -1,8 +1,9 @@
 doctype html
 head
   block title
-    title #{title} | DC801.org
+    title #{(title) ? title + " | DC801 | Salt Lake City DEF CON Group" : "DC801 | Salt Lake City DEF CON Group"}
 body
   include ./partials/header
   block content
   include ./partials/footer
+  script(language='javascript',src='http://localhost:35729/livereload.js')
